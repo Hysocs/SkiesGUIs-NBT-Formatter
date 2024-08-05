@@ -7,8 +7,8 @@
 1. Go to the website https://minecraft-heads.com.
 2. Find a head you want to use.
 3. Set the version to 1.20.
-4. Set the command type to 'server'.
-5. Copy the `give` command provided by the site.
+4. Set the command version to `server`.
+5. Copy the `Give Code` command provided by the site.
 6. Paste the command into the input box in the tool.
 7. Press 'Convert to JSON' to get the formatted JSON output.
 
